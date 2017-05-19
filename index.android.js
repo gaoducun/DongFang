@@ -17,7 +17,7 @@ export default class DongFang extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to JingBo!
+          Welcome to JingBo123!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.android.js
